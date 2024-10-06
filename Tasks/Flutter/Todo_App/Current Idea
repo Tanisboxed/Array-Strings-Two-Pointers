@@ -1,1 +1,33 @@
+# Todo List Day Planner App
 
+## Core Functionality
+1. Task Management
+   - Add, edit, and delete tasks
+   - Set due dates and priorities
+   - Mark tasks as complete
+
+2. Day Planning
+   - View tasks organized by day
+   - Drag and drop to reorder tasks
+   - Set reminders for important tasks
+
+3. Analytics Dashboard
+
+#Additional Functionality
+6. Simple Notes
+   - Add quick notes or thoughts
+   - Attach notes to specific days or tasks
+
+7. Time Capsule
+   - Write notes or upload photos for future dates
+   - Receive notifications when time capsules "open"
+
+8. Settings
+   - Customize notifications
+   - Choose app theme
+   - Backup and sync data
+
+## Potential Future Expansions
+- Collaboration features (shared lists)
+- Integration with calendar apps
+- More detailed analytics and insights
